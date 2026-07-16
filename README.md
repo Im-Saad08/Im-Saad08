@@ -10,11 +10,9 @@ Computer Engineering Undergraduate • AI & Computer Vision • Embedded Systems
 
 ---
 
-# 👨‍💻 Profile Snapshot
-
 | 🎓 Education | 💼 Interests | 🎯 Career Goal |
 |-------------|-------------|----------------|
-| B.Sc. Computer Engineering | Computer Vision, AI, Embedded Systems, Data Analytics | AI & Computer Vision Engineer |
+| B.Sc. Computer Engineering | Computer Vision, AI, Embedded Systems, Data Analytics | AI & Automation, Data Analyst |
 
 ---
 
@@ -84,18 +82,12 @@ graph TD
 
 # 📚 Currently Learning
 
-This roadmap visualizes my progression from foundational programming to advanced AI engineering.
-
 ```mermaid
-graph TD
-    A[Python] --> B[Data Analytics]
-    B --> C[Machine Learning]
-    C --> D[Deep Learning]
-    D --> E[Computer Vision]
-    E --> F[Advanced AI]
+graph LR
+    A[Python] --> B[Data Analytics] --> C[Machine Learning] --> D[Deep Learning] --> E[Computer Vision] --> F[Advanced AI]
     
-    style A fill:#4B8BBE,stroke:#333,stroke-width:2px,color:#fff
-    style F fill:#FFD43B,stroke:#333,stroke-width:2px,color:#000
+    style A fill:#052a99,color:#fff
+    style F fill:#800414
 ```
 
 ## 🛠 Development Focus
@@ -110,19 +102,19 @@ graph TD
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 12px; border: 1px solid #374151;"><strong>🐍 Python</strong></td>
+        <td style="padding: 12px; border: 1px solid #374151;"><strong> Python</strong></td>
         <td style="padding: 12px; text-align: center; border: 1px solid #374151; color: #22c55e;"><strong>Advance</strong></td>
       <tr>
-        <td style="padding: 12px; border: 1px solid #374151;"><strong>📊 Data Analytics</strong></td>
+        <td style="padding: 12px; border: 1px solid #374151;"><strong> Data Analytics</strong></td>
         <td style="padding: 12px; text-align: center; border: 1px solid #374151; color: #eab308;"><strong>Advanced</strong></td>
       <tr>
-        <td style="padding: 12px; border: 1px solid #374151;"><strong>👁️ Computer Vision</strong></td>
+        <td style="padding: 12px; border: 1px solid #374151;"><strong> Computer Vision</strong></td>
         <td style="padding: 12px; text-align: center; border: 1px solid #374151; color: #3b82f6;"><strong>Intermediate</strong></td>
       <tr>
-        <td style="padding: 12px; border: 1px solid #374151;"><strong>🛠️ Embedded Linux</strong></td>
+        <td style="padding: 12px; border: 1px solid #374151;"><strong> Embedded Linux</strong></td>
         <td style="padding: 12px; text-align: center; border: 1px solid #374151; color: #ec4899;"><strong>Intermediate</strong></td>
       <tr>
-        <td style="padding: 12px; border: 1px solid #374151;"><strong>🧠 Deep Learning</strong></td>
+        <td style="padding: 12px; border: 1px solid #374151;"><strong> Deep Learning</strong></td>
         <td style="padding: 12px; text-align: center; border: 1px solid #374151; color: #8b5cf6;"><strong>Intermediate</strong></td>
     </tbody>
   </table>
